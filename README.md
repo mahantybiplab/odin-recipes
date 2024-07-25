@@ -1,4 +1,4 @@
-<h3>Odin Reciepes :</h3>
+<h3>Odin Recipes :</h3>
 <ul>
     <li>Lasagna</li>
     <li>warm-berry-compote</li>
